@@ -1,3 +1,6 @@
+![image](https://github.com/ABIDULLAH786/audio-recorder-portfolio/assets/67856787/a33e43ae-0f60-41ba-aa43-4ecebf6a6c57)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
